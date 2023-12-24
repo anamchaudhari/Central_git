@@ -3,3 +3,4 @@ if (number >= 0)
    printf("Number is positive\n");
 else
    printf("Number is negative\n");
+this was a short example to the syntax
