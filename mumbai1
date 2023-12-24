@@ -1,1 +1,5 @@
 this is the if else syntax
+if (number >= 0)
+   printf("Number is positive\n");
+else
+   printf("Number is negative\n");
